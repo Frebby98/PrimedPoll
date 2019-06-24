@@ -8,8 +8,8 @@ PrimedPoll is a simple app that allows users create polls based on their interes
 *Retrofit - for getting and parsing data
 
 ## Images
-<img src="/app/primedPollScreenShots/primedpollLogin.jpeg" width="180" height="360" /> | <img src="/goal_setter_screenshots/goalsetterRegistration.jpeg" width="180" height="360" />
-<img src="/goal_setter_screenshots/goalsetterItems.jpeg" width="180" height="360" /> | <img src="/goal_setter_screenshots/goslsetterAllGoals.jpeg" width="180" height="360" /> | <img src="/goal_setter_screenshots/goalsetterAddGoal.jpeg" width="180" height="360" />
+<img src="/app/primedPollScreenShots/primedpollLogin.jpeg" width="180" height="360" /> | <img src="/app/primedPollScreenShots/primedpollRegistration.jpeg" width="180" height="360" />
+<img src="/app/primedPollScreenShots/primedpollCompleteReg.PNG" width="180" height="360" /> | <img src="/app/primedPollScreenShots/primedpollUserProfile.PNG" width="180" height="360" /> | <img src="/app/primedPollScreenShots/primedpollEditProfile.PNG" width="180" height="360" />
 ## Version 
 1.0
 
