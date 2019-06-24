@@ -1,29 +1,15 @@
-# PrimedPoll-Mobile
+# PrimedPoll
 
 PrimedPoll is a simple app that allows users create polls based on their interests, have a say on polls related to their interests and also socialize with like minds.
 
+## Librarys
+*Picasso - for loading images directly from web.
+*Firebase - for google authentication
+*Retrofit - for getting and parsing data
 
-# Getting Started
-
-Fork and clone the Github repository
-
-`git add .`
-
-`git commit -m "_commit message here_"`
-
-`git push origin _branch name_`
-
-
-# Usage
-
-Users are expected to first signup (for new users) or login (existing users).
-
-Complete registeration and choose the different categories your interest lies.
-
-Participate either by creating polls or voting on a poll connected to your interest.
-
-Chat with other people with mutual interest.
-
-
-#Contributors
+## Images
+<img src="/primedPollScreenShots/goalsetterLogin.jpeg" width="180" height="360" /> | <img src="/goal_setter_screenshots/goalsetterRegistration.jpeg" width="180" height="360" />
+<img src="/goal_setter_screenshots/goalsetterItems.jpeg" width="180" height="360" /> | <img src="/goal_setter_screenshots/goslsetterAllGoals.jpeg" width="180" height="360" /> | <img src="/goal_setter_screenshots/goalsetterAddGoal.jpeg" width="180" height="360" />
+## Version 
+1.0
 
